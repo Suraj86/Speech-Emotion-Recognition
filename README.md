@@ -1,1 +1,2 @@
 # Speech-Emotion-Recognition
+Speech Emotion Recognition is a project to recognize human emotion and affective states from speech. This is capitalizing on the fact that voive often reflects unfderlying emotion through tone and pitch. This is also the phenomenon that animals like dogs and horses employ to be able to understand human emotion. It is a Python mini project. We have used libraries like Librosa, soundfile to build a model using an MLPClassifier. We have used Ravdess(Ryerson Audio-Visual Database of Emotional Speech and Song) dataset.
